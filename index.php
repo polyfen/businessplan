@@ -15,7 +15,17 @@
         <h2 class="caption">Table of Contents</h2>
         <ul>
             <li>1. Overview</li>
-            <li>2. Why?</li>
+            <li>2. Our Purpose</li>
+            <li>3. Our Values</li>
+            <li>4. Our Brands</li>
+            <ul>
+                <li>4.1. Polyfen</li>
+                <li>4.2. Poly Atlas</li>
+                <li>4.3. Poly Forum</li>
+                <li>4.4. Poly Cookies</li>
+                <li>4.5. Poly Qwerty</li>
+            </ul>
+            <li>5. Our Team</li>
         </ul>
     </nav>
     <main>
