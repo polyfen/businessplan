@@ -54,3 +54,22 @@ a:hover::before {
 transform-origin: left;
 transform: scaleX(1);
 }
+
+body nav {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    background-color: white;
+    width: 300px;
+    height: 100vh;
+    border-top: 12px solid #7637f9;
+    top: 0;
+}
+
+body main {
+    width: 760px;
+    left: 400px;
+    position: absolute;
+}

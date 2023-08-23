@@ -1,0 +1,12 @@
+  <h2 id="overview" class="heading-2">1. Overview</h2>
+    <p><strong>The Polyfen Group</strong> is an organization owner of multiple brands related to software development and the creative industry.</p>
+    <p>We explore ways of using technology to succeed in times of constant change.</p>
+    <p>The Polyfen Group (internally referred to as “TPG” or “Poly”) emerged from a network of creatives, engineers, marketing people, and others from the start-up scene. It was founded in 2018 by <a href="https://boris.hr"target="_blank">Boris Hrnčić</a>, art director and product designer.</p>
+    <p>Our location-independent business model takes advantage of the latest advancements in technology to work seamlessly with a fully-remote team years before the Covid pandemic made it the new normal.</p>
+    <p>Our portfolio of brands include:</p>
+    <ul class="hanging-list">
+      <li><strong>Polyfen:</strong> A creative agency offering Brand Identity Design services for new and emerging businesses. <a href="https://polyfen.com" target="_blank">polyfen.com</a></li>
+      <li><strong>Poly Atlas:</strong> An open-source step-by-step guide to the Branding process, including practical tips, case studies, template files, and many other useful resources. <a target="_blank" href="http://polyatlas.wiki">polyatlas.wiki</a></li>
+      <li><strong>Poly Forum:</strong> A non-profit organization dedicated to promoting free and open education and professional growth in the creative industry. <a href="http://polyforum.org" target="_blank">polyforum.org</a></li>
+      <li><strong>Poly Cookies</strong>: An open-source solution to privacy policy implementing a cookie consent banner with Google Tag Manager. <a href="http://polycookies.com" target="_blank">polycookies.com</a></li>
+    </ul>
