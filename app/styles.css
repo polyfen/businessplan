@@ -22,7 +22,11 @@ body {
     font-family: BiotifExtraBold;
 }
 
-h1, h2, h3, h4, h5 {
+* {
+    color: #4f4f58;
+}
+
+h1, h2, h3, h4, h5, strong {
     color: #12123a;
 }
 
