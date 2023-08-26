@@ -90,3 +90,7 @@ nav ul ul {
 ul.spaced-list li {
     margin-bottom: 1rem;
 }
+
+ul.arrow-bullet {
+    list-style-image: url(../../imgs/arrow-right.svg);
+}
