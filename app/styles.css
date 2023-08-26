@@ -94,3 +94,23 @@ ul.spaced-list li {
 ul.arrow-bullet {
     list-style-image: url(../../imgs/arrow-right.svg);
 }
+
+a.web-url {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+img.web-icon {
+    height: 25px;
+    margin-right: 8px;
+    margin-top: -2px;
+}
+
+a img.external-url-icon, a img.web-icon {
+    opacity: 0.6;
+}
+
+a:hover img.external-url-icon, a:hover img.web-icon {
+    opacity: 1;
+}
