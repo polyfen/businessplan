@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <title>Business Plan | The Polyfen Group</title>
+    <title>Business Plan | Polyfen</title>
 
     <!-- INCLUDE HEAD.PHP start -->
     <?php include 'includes/head.php';?>

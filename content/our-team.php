@@ -1,1 +1,1 @@
-<h2 class="heading-2">4. Our Team</h2>
+<h2 class="heading-1">4. Our Team</h2>
