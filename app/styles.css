@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, strong {
     color: #12123a;
 }
 
-p, p a, li, p strong, p span, li strong {
+p, p a, li, li a, p strong, p span, li strong {
     font-family: 'freight-text-pro', serif;
 }
 
@@ -76,6 +76,7 @@ body main {
     width: 760px;
     left: 400px;
     position: absolute;
+    padding-top: 60px;;
 }
 
 nav ul {
@@ -84,4 +85,8 @@ nav ul {
 
 nav ul ul {
     margin-left: 20px;
+}
+
+ul.spaced-list li {
+    margin-bottom: 1rem;
 }

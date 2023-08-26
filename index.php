@@ -30,9 +30,10 @@
     </nav>
     <main>
         <section id="cover">
-           <h2 class="caption"><br><br>The Polyfen group<br><br>
-            Est. 2018</h2>
-            <h1 class="title-2">This is our Business Plan</h1>
+          <img src="imgs/polyfen-logo.svg" alt="Polyfen" height="80px" width="auto">
+          <h1 class="title-2">This is our Business Plan</h1>
+          <h2 class="caption"><br><br>The Polyfen Group LLC<br><br>
+          Est. 2018</h2>
             
         </section>
         <hr>
