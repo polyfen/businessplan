@@ -14,6 +14,7 @@
     <nav>
         <h2 class="caption">Table of Contents</h2>
         <ul>
+            <li><a href="#" class="caption">Business Plan</a></li>
             <li><a href="#overview" class="caption">1. Overview</a></li>
             <li><a href="#purpose" class="caption">2. Our Purpose</a></li>
             <li><a href="#values" class="caption">3. Our Values</a></li>
