@@ -14,18 +14,18 @@
     <nav>
         <h2 class="caption">Table of Contents</h2>
         <ul>
-            <li>1. Overview</li>
-            <li>2. Our Purpose</li>
-            <li>3. Our Values</li>
-            <li>4. Our Brands</li>
+            <li><a href="#overview" class="caption">1. Overview</a></li>
+            <li><a href="#purpose" class="caption">2. Our Purpose</a></li>
+            <li><a href="#values" class="caption">3. Our Values</a></li>
+            <li><a href="#brands" class="caption">4. Our Brands</a></li>
             <ul>
-                <li>4.1. Polyfen</li>
-                <li>4.2. Poly Atlas</li>
-                <li>4.3. Poly Forum</li>
-                <li>4.4. Poly Cookies</li>
-                <li>4.5. Poly Qwerty</li>
+                <li><a href="#polyfen" class="caption">4.1. Polyfen</a></li>
+                <li><a href="#poly-atlas" class="caption">4.2. Poly Atlas</a></li>
+                <li><a href="#poly-forum" class="caption">4.3. Poly Forum</a></li>
+                <li><a href="#poly-cookies" class="caption">4.4. Poly Cookies</a></li>
+                <li><a href="#poly-qwerty" class="caption">4.5. Poly Qwerty</a></li>
             </ul>
-            <li>5. Our Team</li>
+            <li><a href="#team" class="caption">5. Our Team</a></li>
         </ul>
     </nav>
     <main>

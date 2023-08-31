@@ -1,4 +1,5 @@
-  <h2 id="overview" class="heading-1">1. Overview</h2>
+<section id="overview">
+<h2 class="heading-1">1. Overview</h2>
   <p>The Polyfen Group LLC is a small holding company that owns and operates a portfolio of brands with the common goal to explore new ways of using technology in creative projects.</p>
   <p>The company was founded in 2018 by <a href="https://boris.hr" target="_blank">Boris Hrn&ccaron;i&cacute;</a> &mdash;Argentinian-Croatian, art director and product designer&mdash; with the support of a few colleagues sharing the same passion for building something we can be proud of.</p>
   <p>The stock is 100% independently owned by the team with no dependency on investors or any other kind of external funding.</p>
@@ -34,3 +35,4 @@
     </section>
   </section>
   <p>And we have a few more projects in the oven...</p>
+</section>
