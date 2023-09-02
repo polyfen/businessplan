@@ -32,10 +32,16 @@
     <main>
         <section id="cover">
           <img src="imgs/polyfen-logo.svg" alt="Polyfen" height="80px" width="auto">
-          <h1 class="title-2">Business Plan</h1>
-          <h2 class="caption"><br><br>The Polyfen Group LLC<br><br>
-          Est. 2018</h2>
-            
+          <div id="cover">
+            <div id="cover-text">
+              <h1 class="title-2">Business Plan</h1>
+              <h2 class="caption"><br><br>The Polyfen Group LLC<br><br>
+              Est. 2018</h2>
+            </div>
+            <div id="cover-image">
+              <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto">
+            </div>
+          </div>
         </section>
         <hr>
         <!-- INCLUDE OVERVIEW.PHP start -->
