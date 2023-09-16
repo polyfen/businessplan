@@ -25,7 +25,7 @@
                 <li><a href="#poly-forum" class="caption">4.3. Poly Forum</a></li>
                 <li><a href="#poly-cookies" class="caption">4.4. Poly Cookies</a></li>
                 <li><a href="#poly-qwerty" class="caption">4.5. Poly Qwerty</a></li>
-                <li><a href="#poly-nucleus" class="caption">4.5. Poly Nucleus</a></li>
+                <li><a href="#poly-nucleus" class="caption">4.6. Poly Nucleus</a></li>
             </ul>
           </ul>
     </nav>
