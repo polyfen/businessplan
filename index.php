@@ -56,14 +56,6 @@
         <?php include 'content/our-values.php';?>
         <!-- INCLUDE OUR-VALUES.PHP end -->
         <hr>
-        <!-- INCLUDE OUR-BRANDS.PHP start -->
-        <?php include 'content/our-brands.php';?>
-        <!-- INCLUDE OUR-BRANDS.PHP end -->
-        <hr>
-        <!-- INCLUDE OUR-TEAM.PHP start -->
-        <?php include 'content/our-team.php';?>
-        <!-- INCLUDE OUR-TEAM.PHP end -->
-        <hr>
     </main>
   </body>
 </html>
