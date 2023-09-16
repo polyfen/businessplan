@@ -16,9 +16,9 @@
         <ul>
             <li><a href="#" class="caption" style="text-transform:uppercase !important;">Business Plan</a></li>
             <li><a href="#overview" class="caption">1. Overview</a></li>
-            <li><a href="#purpose" class="caption">2. Our Purpose</a></li>
-            <li><a href="#values" class="caption">3. Our Values</a></li>
-            <li><a href="#brands" class="caption">4. Our Brands</a></li>
+            <li><a href="#purpose" class="caption">2. Purpose</a></li>
+            <li><a href="#values" class="caption">3. Values</a></li>
+            <li><a href="#brands" class="caption">4. Brands</a></li>
             <ul>
                 <li><a href="#polyfen" class="caption">4.1. Polyfen</a></li>
                 <li><a href="#poly-atlas" class="caption">4.2. Poly Atlas</a></li>
@@ -49,11 +49,15 @@
         <!-- INCLUDE OVERVIEW.PHP end -->
         <hr>
         <!-- INCLUDE OUR-GOAL.PHP start -->
-        <?php include 'content/our-purpose.php';?>
+        <?php include 'content/purpose.php';?>
         <!-- INCLUDE OUR-GOAL.PHP end -->
         <hr>
         <!-- INCLUDE OUR-VALUES.PHP start -->
-        <?php include 'content/our-values.php';?>
+        <?php include 'content/values.php';?>
+        <!-- INCLUDE OUR-VALUES.PHP end -->
+        <hr>
+        <!-- INCLUDE OUR-VALUES.PHP start -->
+        <?php include 'content/brands.php';?>
         <!-- INCLUDE OUR-VALUES.PHP end -->
         <hr>
     </main>
