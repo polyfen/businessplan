@@ -28,7 +28,7 @@
                 <li><a href="#poly-nucleus" class="caption">4.6. Poly Nucleus</a></li>
             </ul>
           </ul>
-    </nav>
+    </nav> 
     <main>
         <section id="cover">
           <img src="imgs/polyfen-logo.svg" alt="Polyfen" height="80px" width="auto">
