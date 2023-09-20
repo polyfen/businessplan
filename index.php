@@ -11,10 +11,11 @@
   </head>
 
   <body>
-    <nav>
+    <nav id="navbar">
         <h2 class="caption">Table of Contents</h2>
+
         <ul>
-            <li><a href="#" class="caption" style="text-transform:uppercase !important;">Business Plan</a></li>
+            <li><a href="#" class="caption">Business Plan</a></li>
             <li><a href="#overview" class="caption">1. Overview</a></li>
             <li><a href="#purpose" class="caption">2. Purpose</a></li>
             <li><a href="#values" class="caption">3. Values</a></li>
@@ -28,20 +29,16 @@
                 <li><a href="#poly-nucleus" class="caption">4.6. Poly Nucleus</a></li>
             </ul>
           </ul>
+          <button aria-label="Open/Close navbar" tabindex="0" id="opener">
+            <img src="imgs/icons/hamburger_icon.svg" alt="" height="30px" width="auto">
+          </button>
     </nav> 
     <main>
-        <section id="cover">
-          <img src="imgs/polyfen-logo.svg" alt="Polyfen" height="80px" width="auto">
-          <div id="cover">
-            <div id="cover-text">
-              <h1 class="title-2">Business Plan</h1>
-              <h2 class="caption"><br><br>The Polyfen Group LLC<br><br>
-              Est. 2018</h2>
-            </div>
-            <div id="cover-image">
-              <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto">
-            </div>
-          </div>
+        <section class="cover">
+          <img src="imgs/polyfen-logo.svg" alt="Polyfen logo" height="80px" width="auto">
+          <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto">
+          <h1 class="title-2">Business Plan</h1>
+          <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
         </section>
         <hr>
         <!-- INCLUDE OVERVIEW.PHP start -->
