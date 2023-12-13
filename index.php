@@ -28,13 +28,18 @@
                 <li><a href="#poly-nucleus" class="caption">4.6. Poly Nucleus</a></li>
             </ul>
           </ul>
-          <button aria-label="Open/Close navbar" id="opener">
-            <img src="imgs/icons/hamburger_icon.svg" alt="" height="30px" width="auto">
-          </button>
-    </nav> 
+    </nav>
+    <button aria-label="Open/Close navbar" class="hamburger">
+        <img src="imgs/icons/hamburger_icon.svg" alt="" height="30px" width="auto">
+    </button>
+    <button class="close">
+        <svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 24 24">
+          <path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16 16l-4-4m0 0L8 8m4 4l4-4m-4 4l-4 4"/>
+        </svg>
+    </button>
     <main>
         <section class="cover">
-          <img src="imgs/polyfen-logo.svg" alt="Polyfen logo" height="80px" width="auto">
+          <img class="plfn-logo" src="imgs/polyfen-logo.svg" alt="Polyfen logo" height="80px" width="auto">
           <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto">
           <h1 class="title-2">Business Plan</h1>
           <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
