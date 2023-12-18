@@ -41,12 +41,12 @@
         <a href="https://polyqwerty.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polyqwerty.com</a>
         </section>
     </section>
-    <section id="poly-nucleus">
-        <h3 class="heading-2">3.6. Poly Nucleus</h3>
+    <section id="poly-kit">
+        <h3 class="heading-2">3.6. Poly Kit</h3>
         <section class="sub-brand">
-        <img src="imgs/sub-brands/poly-kit-logo.svg" alt="Poly Nucleus" height="60px" width="auto">
+        <img src="imgs/sub-brands/poly-kit-logo.svg" alt="Poly Kit" height="60px" width="auto">
         <p>Open-source design system... in early development. Very — early — development..</p>
-      <a href="https://polynucleus.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polynucleus.com</a>
+      <a href="https://polykit.xyz" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polykit.xyz</a>
         </section>
     </section>
 </section>
